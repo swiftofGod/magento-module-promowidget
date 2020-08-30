@@ -1,0 +1,4 @@
+app/code/community/VS7/PromoWidget                                 app/code/community/VS7/PromoWidget
+app/design/adminhtml/default/default/layout/vs7_promowidget.xml    app/design/adminhtml/default/default/layout/vs7_promowidget.xml
+app/etc/modules/VS7_PromoWidget.xml                                app/etc/modules/VS7_PromoWidget.xml
+

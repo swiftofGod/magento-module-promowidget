@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<widgets>
+    <VS7_PromoWidget type="vs7_promowidget/bannerslist">
+        <name>Promo Banners</name>
+        <description type="desc">Displays Promo Banners</description>
+    </VS7_PromoWidget>
+</widgets>

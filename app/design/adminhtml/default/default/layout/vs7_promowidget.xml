@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<layout>
+    <adminhtml_promo_quote_edit>
+        <reference name="promo_quote_edit_tabs">
+            <block type="vs7_promowidget/adminhtml_promo_quote_edit_tab_widgetbanner" name="vs7_promowidget_promo_quote_edit_tab_widgetbanner" />
+            <action method="addTab"><name>vs7_promowidget_widgetbanner</name><block>vs7_promowidget_promo_quote_edit_tab_widgetbanner</block></action>
+        </reference>
+    </adminhtml_promo_quote_edit>
+</layout>
